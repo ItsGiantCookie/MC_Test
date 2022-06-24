@@ -1,1 +1,213 @@
-# MC_Test
+(Dependecies like Libs aren't listed)
+
+# Tech-Mods
+- Advanced Chimneys
+- Advanced Finders
+- Apllied Energetics 2
+  - AE Additions - ExtraCells2 Fork
+  - Lazy AE2
+  - PackagedAuto
+    - PackagedExCrafting
+- BuildCraft
+  - Additional Pipes
+  - BuildCraft RF
+- CC: Tweaked
+- Deep Mod Learning
+  - Deep Mod Learning - Blood Magic Addon
+- Ender Storage
+- Ender IO + EnderIO Fluxified
+  - Base
+  - Conduits
+  - Endergy
+  - Forestry
+  - TiC
+  - AE2 Conduits
+  - Gas Conduits
+  - Stellar Fluid Conduits
+- EnderTanks
+- Energy Meters
+- Extended Crafting
+- Extra Utilities
+- Extreme Reactors
+- Filtered Hoppers
+- Floppers
+- Flux Networks
+- Forestry
+  - Binnie's Mods
+  - Career Bees
+  - Gendustry
+- Galacticraft
+  - Extra Planets
+  - Interstellar: Exoplanets
+  - More Planets
+  - More Planets Extra
+  - StarCraftX - Reloaded
+  - Zellern Galaxy
+- Funky Locomotion
+- Hopper Ducts
+- Immersive Engineering
+  - Immersive Energy
+  - Immersive Intelligence
+  - Immersive IO (Bridge between IE and EnderIO)
+  - Immersive Petrolium
+  - Immersive Posts
+  - Immersive Technology
+- Immersive Railroads
+- Infinte Pollution Filter
+- Mekanism
+  - Fluxified
+  - Generators
+  - Tools
+  - MekanismOres
+- More Plates
+- NuclearCraft
+- OpenComputers
+  - Open Lights Controller
+  - OpenComputers Driver for TiC
+  - OpenLights
+  - OpenScreens
+  - OpenWeaponary
+- PneumaticCraft: Repressurized
+- Pollutantpump
+- Pollution of the Realms
+- Portality
+- Project Red
+  - Core
+  - Compat
+  - Illumination
+  - Integration
+- RFTools
+  - RFTools Control
+  - RFTools Dimensions
+- Simply Jetpacks
+- Solar Flux Reborn
+- Thermal Series
+  - Fundation
+  - Expansion
+  - Cultivation
+  - Innovation
+- Tinkers Construct
+  - Construct's Armory
+    - Armory Expansion
+  - Tinkering with Blood Magic
+  - Tinker's Complement
+- Ultimate Car Mod
+- Uppers
+- Wireless Redstone CBE
+
+# Magic
+
+- Botania
+  - ExtraBotany
+- Blood Magic
+  - Animus
+  - Blood Arsenal
+  - Blood Dynamo
+- The Twilight Forest
+- The Aether
+
+# Deco
+
+- Additional Lanterns
+- ArchitectureCraft
+- BiblioCraft
+- Catwalks 4
+- Chisel
+- Chisels & Bits
+- Comfots
+- Decocraft
+- Engineer's Decor
+- Ferdinand's Flowers
+- Gauges and Switches
+- LandOfSignals
+- Macaws Series
+  - Bridges
+  - Doors
+  - Fences and Walls
+  - Furniture
+  - Roofs
+  - Trapdoors
+  - Windows
+- Miszko's Polish Trasckside Decor Pack
+- Project: Vribrant Journeyys
+- Railstuff
+- Rustic
+- Trackside Decor
+- Traffic Control
+
+# Misc
+
+- Akashic Tome
+- Animania
+  - Base
+  - Cats &Dogs
+  - Extra Animals
+  - Farm
+- AppleSkin
+- Aquaculture 2
+- Blur
+- Bonsai Trees 3
+- Cooking for Blockheads
+- copygirl's Wearable Backpack
+- Corails Tombstones
+- Cyclic
+- Dynamic Surroundings
+- Enchantment Descriptions
+- Farming for Blockheads
+- KleeSlabs
+- Large Ore Deposits
+- MineColonies
+- Morph-o-Tool
+- Ocean Floor - Clay Sand and Dirt
+- Oh The Biomes You'll Go
+- OpenBlocks
+- OreExcavation
+- Ore Excabation Integration
+- Pam's Series
+  - BrewCraft
+  - HarvestCraft
+  - Llama Milking
+  - Simple Strawberries
+  - Squid Milking
+- Serene Seasons
+- Serene Tweaks
+- Snow! Real Magic!
+- Sound Filters
+- Storage Drawers
+- Storage Drawers Extras
+- The One Probe
+- TOP Addons
+- Torchmaster
+- Trash Cans
+- Tumbleweed
+- Weather, Storms & Tornadoes
+
+# Utils
+
+- Anvil Patch
+- Clumps
+- Controlling
+- CraftingTweaks
+- CraftTweaker
+- Fast Leaf Decay
+- FastFurnace
+- FastWorkbench
+- Inventory Tweaks
+- JEI (with as much mod intergration as necessary)
+- JustEnoughIds
+- ModTweaker
+- Morpheus
+- MouseTweaks
+- No Recipe Book
+- ReAuth
+- SwingThroughGrass
+- TipTheScale
+- ToastControl
+
+# Staging
+
+- Gamestages
+  - Dimension Stages
+  - Item Stages
+  - Recipe Stages
+  - TinkerStages
