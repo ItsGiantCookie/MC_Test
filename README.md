@@ -182,6 +182,7 @@
 - Sound Filters
 - Storage Drawers
 - Storage Drawers Extras
+- Streams
 - The One Probe
 - TOP Addons
 - Torchmaster
