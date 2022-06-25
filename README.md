@@ -4,6 +4,7 @@
 - Advanced Chimneys
 - Advanced Finders
 - Apllied Energetics 2
+  - AE2 Utilities
   - AE Additions - ExtraCells2 Fork
   - Lazy AE2
   - PackagedAuto
@@ -111,6 +112,7 @@
 - Additional Lanterns
 - ArchitectureCraft
 - BiblioCraft
+- Blockcraftery
 - Catwalks 4
 - Chisel
 - Chisels & Bits
@@ -132,12 +134,15 @@
 - Project: Vribrant Journeyys
 - Railstuff
 - Rustic
+- TallGates
 - Trackside Decor
 - Traffic Control
 
 # Misc
 
 - Akashic Tome
+- AI Improvements
+- Aroma1997s Dimensional World
 - Animania
   - Base
   - Cats &Dogs
@@ -179,6 +184,7 @@
 - TOP Addons
 - Torchmaster
 - Trash Cans
+- Tropicraft
 - Tumbleweed
 - Weather, Storms & Tornadoes
 
