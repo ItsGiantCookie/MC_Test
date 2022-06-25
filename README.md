@@ -130,6 +130,7 @@
   - Roofs
   - Trapdoors
   - Windows
+- MalisisDoors
 - Miszko's Polish Trasckside Decor Pack
 - Project: Vribrant Journeyys
 - Railstuff
